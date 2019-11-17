@@ -1,4 +1,5 @@
-﻿using System;
+﻿using GenericsPlayground.Models;
+using System;
 
 namespace GenericsPlayground
 {
@@ -6,7 +7,9 @@ namespace GenericsPlayground
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+           
+
+            
         }
     }
 }
